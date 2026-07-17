@@ -1,30 +1,28 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=250&section=header&text=Manoj%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer&descAlignY=55&descAlign=50">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=250&section=header&text=Manoj%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer&descAlignY=55&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=250&section=header&text=Manoj%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Manoj%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20to%20SDE%20Roles&descAlignY=58&descSize=18" />
+
+<h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
+<h3 align="center">Full-Stack Developer | Java • React • Next.js • TypeScript • PostgreSQL</h3>
+<h4 align="center">🟢 Open to Software Engineer / Full-Stack Developer opportunities</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI-Powered+Application+Builder;Real-Time+Collaboration+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+AI-Powered+Applications;Real-Time+Collaboration+Enthusiast;Open+to+SDE+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manojkumar13-ux&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Manojkumar13-ux?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Manojkumar13-ux?affiliations=OWNER&label=Stars&style=for-the-badge&color=00BFFF" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Manojkumar13-ux&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Software Development Engineer** passionate about building AI-powered full-stack applications and real-time collaborative systems. I love solving complex problems and building products that make a difference.
+Computer Science graduate (2025) building production-quality, full-stack applications — not tutorials. I focus on real-time systems, AI-powered tools, and clean, scalable architecture.
 
+- 🎯 **Looking for:** Software Engineer / Full-Stack Developer roles
 - 🔭 Currently building **real-time collaborative applications** with Yjs CRDTs and WebSockets
 - 🌱 Exploring **AI-powered developer tools** and distributed systems
 - 💬 Ask me about **React, Next.js, Node.js, PostgreSQL, Docker**
 - 📫 Reach me at: **vandanamanojkumar13@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code and ideas into products**
 
 ---
 
@@ -58,7 +56,6 @@ I'm a **Software Development Engineer** passionate about building AI-powered ful
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF6C37?style=for-the-badge&logo=bullmq&logoColor=white)
 
 ---
 
@@ -93,6 +90,33 @@ I'm a **Software Development Engineer** passionate about building AI-powered ful
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manojkumar13-ux/Manojkumar13-ux/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manojkumar13-ux/Manojkumar13-ux/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
+
+---
+
+## 🎮 Take a Break — Play Debug Duel
+
+<p align="center">
+  <a href="https://manojkumar13-ux.github.io/manoj-game/">
+    <img src="https://img.shields.io/badge/▶ Play Debug_Duel-0F172A?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Play Debug Duel" />
+  </a>
+</p>
+<p align="center"><i>A 30-second bug-squashing game I built — click the runtime errors before they crash the build 🐛</i></p>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔥 Collaborative Real-Time Canvas
@@ -116,22 +140,6 @@ I'm a **Software Development Engineer** passionate about building AI-powered ful
 > AI-powered ATS resume analysis platform
 
 ---
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manojkumar13-ux/Manojkumar13-ux/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manojkumar13-ux/Manojkumar13-ux/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Manojkumar13-ux/Manojkumar13-ux/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=footer&fontColor=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=footer&fontColor=ffffff">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=footer&fontColor=ffffff" width="100%"/>
-</picture>
 
 <p align="center">
   <b>💻 Building the future, one commit at a time.</b>
