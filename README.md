@@ -72,12 +72,12 @@ Computer Science graduate (2025) building production-quality, full-stack applica
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manojkumar13-ux&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manojkumar13-ux&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojkumar13-ux&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkumar13-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkumar13-ux&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="45%" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ Computer Science graduate (2025) building production-quality, full-stack applica
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manojkumar13-ux&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Manojkumar13-ux&theme=tokyonight&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
