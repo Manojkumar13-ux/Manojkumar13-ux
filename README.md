@@ -117,6 +117,16 @@ I'm a **Software Development Engineer** passionate about building AI-powered ful
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manojkumar13-ux/Manojkumar13-ux/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manojkumar13-ux/Manojkumar13-ux/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Manojkumar13-ux/Manojkumar13-ux/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=footer&fontColor=ffffff">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=footer&fontColor=ffffff">
